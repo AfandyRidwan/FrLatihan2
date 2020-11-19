@@ -1,0 +1,9 @@
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\bin\Debug\FrLatihan2.exe
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\bin\Debug\FrLatihan2.pdb
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\bin\Debug\FrLatihan2.xml
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\obj\x86\Debug\FrLatihan2.Form1.resources
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\obj\x86\Debug\FrLatihan2.Resources.resources
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\obj\x86\Debug\FrLatihan2.vbproj.GenerateResource.Cache
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\obj\x86\Debug\FrLatihan2.exe
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\obj\x86\Debug\FrLatihan2.xml
+E:\Semester3\SEP\FrLatihan2\FrLatihan2\obj\x86\Debug\FrLatihan2.pdb
